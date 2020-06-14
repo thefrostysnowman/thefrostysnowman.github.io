@@ -4,10 +4,16 @@ You can use the [editor on GitHub](https://github.com/thefrostysnowman/thefrosty
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Some info wow
+### Some info wow
 - Yay
 - Bro
 - Yo
+
+## More info sub stuff
+
+1.num
+2. ber
+3.    s
 
 ### Markdown
 
